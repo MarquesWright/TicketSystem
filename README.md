@@ -1,2 +1,0 @@
-# TicketSystem
-First Class Project
